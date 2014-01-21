@@ -1,0 +1,589 @@
+libpri (29:1.4.12+pf.xivo.1.2~alpha-1.4-2) squeeze-xivo-skaro-dev; urgency=low
+
+  * fix version 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Thu, 29 Sep 2011 08:59:16 -0400
+
+libpri (28:1.4.12+pf.xivo.1.2~alpha-1.4-1) squeeze-xivo-skaro-dev; urgency=low
+
+  * fix for packaging farm
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Wed, 28 Sep 2011 14:26:06 -0400
+
+libpri (28:1.4.12+pf.xivo.1.2~20110805.172915.12438dd-1) squeeze-xivo-skaro-dev; urgency=low
+
+  * Fix for packaging farm build
+
+ -- Sylvain Boily <sboily@proformatique.com>  Fri, 05 Aug 2011 13:34:07 -0400
+
+libpri (27:1.4.12-0+pf.xivo.1.2~svn11218-0) squeeze-xivo-skaro-dev; urgency=low
+
+  * new upstream version
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Thu, 07 Jul 2011 11:51:17 +0200
+
+libpri (27:1.4.11.5-0+pf.squeeze.xivo.skaro.dev.13) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Wed, 25 May 2011 16:08:55 +0200
+
+libpri (27:1.4.11.5-0+pf.squeeze.xivo.skaro.dev.12) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Fri, 13 May 2011 08:45:55 +0200
+
+libpri (27:1.4.11.5-0+pf.squeeze.xivo.skaro.dev.11) squeeze-xivo-skaro-dev; urgency=low
+
+  * fix version 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 26 Apr 2011 09:31:56 +0200
+
+libpri (27:1.4.11.5-0+pf.squeeze.xivo.skaro.dev.9) squeeze-xivo-skaro-dev; urgency=low
+
+  * new uptream release
+  * fix version
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Wed, 06 Apr 2011 09:38:03 +0200
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.8) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Tue, 05 Apr 2011 13:23:04 +0200
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.7) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Wed, 30 Mar 2011 12:50:25 +0200
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.6) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Wed, 16 Mar 2011 09:02:24 +0100
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.5) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Tue, 15 Mar 2011 12:56:51 +0100
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.4) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Tue, 15 Mar 2011 10:24:32 +0100
+
+libpri (26:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.3) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Sat, 12 Mar 2011 09:59:52 +0100
+
+libpri (25:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.2) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Thu, 10 Feb 2011 15:12:38 +0100
+
+libpri (25:1.4.11.5-0+pf-2+pf.squeeze.xivo.skaro.dev.1) squeeze-xivo-skaro-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Tue, 08 Feb 2011 16:58:35 +0100
+
+libpri (25:1.4.11.5-0+pf-2) squeeze-xivo-skaro-dev; urgency=low
+
+  * fix changelog 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Thu, 03 Feb 2011 10:25:40 +0100
+
+libpri (23:1.4.11.5-0+pf-1) squeeze-xivo-skaro-dev; urgency=low
+
+  * first release for Squeeze 
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Fri, 21 Jan 2011 15:56:08 +0100
+
+libpri (23:1.4.11.5-0+pf.lenny.xivo.gallifrey.16) lenny-xivo-gallifrey; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO 1.1.10 release.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Thu, 06 Jan 2011 19:18:34 +0100
+
+libpri (22:1.4.11.5-0+pf.lenny.xivo.gallifrey.dev.6) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Thu, 06 Jan 2011 08:39:19 +0100
+
+libpri (21:1.4.11.5-0+pf.lenny.xivo.gallifrey.dev.5) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Wed, 01 Dec 2010 16:11:40 +0100
+
+libpri (20:1.4.11.5-0+pf.lenny.xivo.gallifrey.dev.2) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Tue, 30 Nov 2010 12:07:02 +0100
+
+libpri (19:1.4.11.4-0+pf.lenny.xivo.gallifrey.dev.4) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Fri, 29 Oct 2010 15:17:38 +0200
+
+libpri (19:1.4.11.4-0+pf.lenny.xivo.gallifrey.dev.3) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Mon, 25 Oct 2010 12:23:58 +0200
+
+libpri (18:1.4.11.4-0+pf.lenny.xivo.gallifrey.dev.2) lenny-xivo-gallifrey-dev; urgency=low
+
+  * [AUTOBUILD] NMU by Proformatique.
+  * [AUTOBUILD] XIVO rebuild.
+
+ -- Proformatique Maintainance Team <technique@proformatique.com>  Fri, 17 Sep 2010 03:55:21 +0200
+
+libpri (17:1.4.11.4-0+pf.lenny.xivo.gallifrey.dev.1) lenny-xivo-gallifrey-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Sylvain Boily <sboily@proformatique.com>  Tue, 07 Sep 2010 20:35:59 +0200
+
+libpri (13:1.4.11.3-0+pf.lenny.xivo.gallifrey.dev.1) lenny-xivo-gallifrey-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release. 
+
+ -- Sylvain Boily <sboily@proformatique.com>  Wed, 30 Jun 2010 00:25:12 +0200
+
+libpri (12:1.4.11.2-0+pf.lenny.xivo.gallifrey.dev.1) lenny-xivo-gallifrey-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Sylvain Boily <sboily@proformatique.com>  Wed, 09 Jun 2010 20:53:44 +0200
+
+libpri (12:1.4.11.1-0+pf.lenny.xivo.gallifrey.dev.1) lenny-xivo-gallifrey-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release. 
+
+ -- Sylvain Boily <sboily@proformatique.com>  Mon, 07 Jun 2010 16:41:50 +0200
+
+libpri (12:1.4.11-0+pf.lenny.xivo.gallifrey.dev.1) lenny-xivo-gallifrey-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+  * Switched to quilt patch system.
+  * Refreshed all patches.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Thu, 27 May 2010 12:14:07 +0200
+
+libpri (9:1.4.10.2-0+pf.etch.xivo.dalek.dev.1) etch-xivo-dalek-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Mon, 26 Oct 2009 14:42:10 +0100
+
+libpri (9:1.4.10.1-1) etch-xivo-dalek-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Mon,  6 Jul 2009 14:24:12 +0200
+
+libpri (8:1.4.10-0+pf.etch.xivo.dalek.dev.1) etch-xivo-dalek-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+  * Corrected URL in copyright file.
+  * Updated watch file.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Thu, 30 Apr 2009 17:46:29 +0200
+
+libpri (7:1.4.9-0+pf.etch.xivo.k.9.1) etch-xivo-k-9-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+  * Fixed 'get-orig-source' rule's materials (download URL and version
+    calculation method).
+  * Fixed rules to remove 'bristuff-stamp' after build.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Mon, 26 Jan 2009 12:00:57 +0100
+
+libpri (6:1.4.7-1) etch-xivo-k-9-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Thu, 13 Nov 2008 14:28:30 +0100
+
+libpri (3:1.4.5-0+pf.etch.xivo.k.9.dev.2) etch-xivo-k-9-dev; urgency=low
+
+  * NMU by Proformatique.
+  * Fixed package name to use 1.4 instead of 1.0, as the soname is 1.4
+    upstream (and updated Conflicts/Replaces accordingly).
+  * Fixed 'libname.dpatch' not to use a hardcoded soname, thus fixing
+    library installation.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Thu,  7 Aug 2008 18:04:59 +0200
+
+libpri (3:1.4.5-0+pf.etch.xivo.k.9.dev.1) etch-xivo-k-9-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Tue, 15 Jul 2008 11:16:29 +0200
+
+libpri (3:1.4.4-0+pf.etch.xivo.k.9.dev.1) etch-xivo-k-9-dev; urgency=low
+
+  * NMU by Proformatique.
+  * New upstream release.
+  * Updated 'enable-gcc-optimizations.dpatch' and 'libname.dpatch'.
+  * deactivated BRISTUFF.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Fri,  6 Jun 2008 19:15:15 +0200
+
+libpri (3:1.4.3-2+pf.1) etch-xivo-tardis; urgency=low
+
+  * NMU by Proformatique.
+  * Rebuilt for Etch.
+
+ -- Marc Dequènes (Duck) <mdequenes@proformatique.com>  Fri,  6 Jun 2008 18:49:19 +0200
+
+libpri (1.4.3-2) unstable; urgency=low
+
+  * Update to bristuff 0.4.0-RC1
+    - fixed "call reference exceeds 127 on BRI spans" bug in libpri
+      which caused a deadlock in chan_zap.
+    - fixed "t303 not stopped" bug in libpri.
+  * Add Junghanns.NET GmbH to the copyright holders in debian/copyright.
+  * Refer to /usr/share/common-licenses/GPL-2 to avoid ambiguity vs. GPLv3.
+
+ -- Faidon Liambotis <paravoid@debian.org>  Wed, 21 May 2008 03:33:52 +0300
+
+libpri (1.4.3-1) unstable; urgency=low
+
+  [ Mark Purcell ]
+  * New upstream release
+
+  [ Tzafrir Cohen ]
+  * Watching downloads.digium.com directly again. 
+
+ -- Mark Purcell <msp@debian.org>  Tue, 22 Apr 2008 22:49:51 +1000
+
+libpri (1.4.2-2) unstable; urgency=low
+
+  [ Faidon Liambotis ]
+  * Fix debian/watch by using a pkg-voip wrapper to avoid upstream's silly
+    redirections. (Closes: #449956)
+  * Bump Standards-Version to 3.7.3, no changed needed. 
+  * Remove Jose Carlos Garcia Sogo and Santiago Garcia Mantinan from
+    Uploaders.
+
+  [ Tzafrir Cohen ]
+  * Reset T303 timer on ALERTING and PROGRESS response to setup, from
+    bristuff 0.4.0-test6-xr2 (Closes: #473550).
+
+ -- Faidon Liambotis <paravoid@debian.org>  Tue, 01 Apr 2008 07:04:33 +0300
+
+libpri (1.4.2-1) unstable; urgency=low
+
+  [ Kilian Krause ]
+  * Add Homepage field as added in dpkg-dev 1.14.6.
+
+  [ Tzafrir Cohen ]
+  * New upstream release.
+  * Update bristuff to new upstream release.
+  * Update makefile patches to new upstream.
+  * Do build bristuffed version as well with -Werror .
+  * Fix an uninitialized variable there.
+  * BRI overlap digits were ignored - regression from 1.2 (Closes: #448118).
+
+  [ Faidon Liambotis ]
+  * Include <stddef.h> since <sys/time.h> doesn't include it anymore.
+    Fixes FTBFS (Closes: #453161).
+
+ -- Faidon Liambotis <paravoid@debian.org>  Thu, 29 Nov 2007 10:32:50 +0000
+
+libpri (1.4.1-2) unstable; urgency=low
+
+  * Enable -O2 optimizations, following Policy 10.1. (Closes: #359186)
+  * Conflict with libpri1.2 versions prior to 1.4.0-2 to ease transition for
+    testing and unstable users. (Closes: #437804)
+
+ -- Faidon Liambotis <paravoid@debian.org>  Wed, 15 Aug 2007 01:11:16 +0300
+
+libpri (1.4.1-1) unstable; urgency=low
+
+  * New Upstream Release
+
+  [ Tzafrir Cohen ]
+  * Re-Adding bristuff.
+  * Which requires re-applying and fixing libname.dpatch .
+
+  [ Faidon Liambotis ]
+  * Add myself to Uploaders.
+  * Add XS-Vcs-Svn and XS-Vcs-Browser to debian/control.
+  * Switch to dh_install from the deprecated dh_movefiles.
+  * Use ${binary:Version} instead of ${Source-Version}.
+  * Loosen up shlibs: we want to create shlibs that are >= 1.4, not the
+    specific version of libpri 1.4 (e.g. 1.4.1).
+  * Conflict/Replace libpri1.2 from etch since we're providing the same files.
+
+  [ Mark Purcell ]
+  * Bump package name to match soname libpri1.0
+
+ -- Mark Purcell <msp@debian.org>  Sat, 04 Aug 2007 09:41:50 +0100
+
+libpri (1.4.0-2) unstable; urgency=low
+
+  * unstable release
+
+ -- Mark Purcell <msp@debian.org>  Sun, 18 Mar 2007 21:41:16 +0000
+
+libpri (1.4.0-1) experimental; urgency=low
+
+  [ Tzafrir Cohen ]
+  * A new package for branch 1.4.
+  * Bristuff disabled.
+  * Standard version updated to 3.7.2. No change required.
+
+  [ Mark Purcell ]
+  * Update debian/watch for 1.4 series
+
+ -- Mark Purcell <msp@debian.org>  Sun, 18 Mar 2007 21:36:25 +0000
+
+libpri (1.2.4-1) unstable; urgency=low
+
+  * New upstream release.
+  * bristuff-0.3.0-PRE-1v
+
+ -- Mark Purcell <msp@debian.org>  Tue, 24 Oct 2006 22:21:29 +0100
+
+libpri (1.2.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+  [ Tzafrir Cohen ]
+  * Patches have been applied upstream
+  * Makefile.dpatch: Remove unused fix from patches
+  * bristuff 0.3.0-PRE1p
+
+  [ Mark Purcell ]
+  * Cleanup bristuff.dpatch for Upstream 1.2.3. 
+
+ -- Mark Purcell <msp@debian.org>  Wed, 14 Jun 2006 12:11:36 +1000
+
+libpri (1.2.2-3) unstable; urgency=low
+
+  * Use CURDIR rather than PWD to make sure we can build with sudo.
+
+ -- Kilian Krause <kilian@debian.org>  Sun, 16 Apr 2006 22:55:59 +0000
+
+libpri (1.2.2-2) unstable; urgency=low
+
+  * bristuff 0.3.0-PRE-1k
+  * some changes to the libname patch (don't change links in the build dir)
+  * we no longer need to symlink manually (right?)
+
+ -- Tzafrir Cohen <tzafrir.cohen@xorcom.com>  Wed, 08 Feb 2006 00:39:46 +0200
+
+libpri (1.2.2-1) unstable; urgency=low
+
+  [ Tzafrir Cohen ]
+  * bristuff 0.3.0-PRE-1f
+
+  [ Kilian Krause ]
+  * New upstream release.
+  * New ABI since 1.2.1 without chaning SONAME. Adjusting at least the package
+    name accordingly nevertheless. (Closes: #341109)
+  * Add GNU/kFreeBSD patch to run ldconfig (Closes: #338388)
+
+ -- Kilian Krause <kilian@debian.org>  Sun,  5 Feb 2006 11:42:46 +0100
+
+libpri (1.2.1-2) unstable; urgency=low
+
+  * bristuff 0.3.0-PRE-1d
+  * bristuff is built by default, but as a separate library:
+    libpri-bristuffed.so.1 , /usr/include/bristuffed/pri.h . Thus the default
+    libpri is unmodified.
+
+ -- Tzafrir Cohen <tzafrir.cohen@xorcom.com>  Sat, 31 Dec 2005 15:28:25 +0200
+
+libpri (1.2.1-1) unstable; urgency=low
+
+  * New upstream release
+  * Disable bristuff for new upstream
+
+ -- Mark Purcell <msp@debian.org>  Wed,  7 Dec 2005 21:25:46 +0000
+
+libpri (1.2.0-release-2) unstable; urgency=low
+
+  * bristuff 0.3.0-PRE-1 
+
+ -- Tzafrir Cohen <tzafrir.cohen@xorcom.com>  Wed, 23 Nov 2005 02:26:50 +0200
+
+libpri (1.2.0-release-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Thu, 17 Nov 2005 17:44:28 +0000
+
+libpri (1.2.0-rc2-1) experimental; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Sun, 13 Nov 2005 18:21:12 +0000
+
+libpri (1.2.0-rc1-1) unstable; urgency=low
+
+  * New upstream release
+  * Copyright audit to debian/copyright
+
+ -- Mark Purcell <msp@debian.org>  Wed,  9 Nov 2005 20:01:55 +0000
+
+libpri (1.2.0-beta2-1) experimental; urgency=low
+
+  * New upstream release
+  * Update Makefile.patch
+
+ -- Mark Purcell <msp@debian.org>  Tue,  1 Nov 2005 21:46:25 +0000
+
+libpri (1.2.0-0beta1-1) experimental; urgency=low
+
+  * New upstream release
+  * Disable bristuff for experimental upload
+  * lintian cleanup debian/copyright
+
+ -- Mark Purcell <msp@debian.org>  Tue, 30 Aug 2005 20:36:41 +0100
+
+libpri (1.0.9-4) unstable; urgency=low
+
+  * Import bristuff-0.2.0-RC8l.dpatch
+
+ -- Santiago Ruano Rincon <santiago@unicauca.edu.co>  Sat, 30 Jul 2005 11:30:30 -0500
+
+libpri (1.0.9-3) unstable; urgency=low
+
+  * Import bristuff_2.0.0-RC8j
+
+ -- Mark Purcell <msp@debian.org>  Thu, 14 Jul 2005 12:35:29 +0100
+
+libpri (1.0.9-2) unstable; urgency=low
+
+  * With bristuff_2.0.0-RC8h enabled
+
+ -- Mark Purcell <msp@debian.org>  Sat,  2 Jul 2005 09:32:21 +0100
+
+libpri (1.0.9-1) unstable; urgency=low
+
+  * New upstream release
+  * Temp disable BRI stuff to enable 1.0.9 upload
+
+ -- Mark Purcell <msp@debian.org>  Sat,  2 Jul 2005 09:03:34 +0100
+
+libpri (1.0.7-2) etch-xivo-k-9-dev; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Mark Purcell <msp@debian.org>  Fri, 25 Mar 2005 10:39:35 +0000
+
+libpri (1.0.7-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/watch to svn-upgrade
+
+ -- Mark Purcell <msp@debian.org>  Fri, 25 Mar 2005 10:36:08 +0000
+
+libpri (1.0.6-1) unstable; urgency=low
+
+  * New upstream version. (libpri 1.0.6, bristuff RC7k)
+  * Upgraded Standards-Version to 3.6.1 after converting changelog to UTF8.
+
+ -- Kilian Krause <kk@verfaction.de>  Sat,  5 Mar 2005 13:33:10 +0100
+
+libpri (1.0.4-2) unstable; urgency=low
+
+  * Debian VoIP import.
+  * debian/patches/Makefile.dpatch, debian/patches/q931.dpatch: imported from
+    old diff.
+  * debian/patches/bristuff.dpatch: Added bristuff RC7f from junghanns.net
+    (needs disabled q931.dpatch for now) (Closes: #294184)
+
+ -- Kilian Krause <kk@verfaction.de>  Thu, 24 Feb 2005 01:25:11 +0100
+
+libpri (1.0.4-1) unstable; urgency=low
+
+  * New upstream release (Closes: Bug#288447)
+  * Apply amd64 patch from Andreas Jochens (Closes: Bug#287442)
+
+ -- Mark Purcell <msp@debian.org>  Sun,  6 Feb 2005 11:09:04 +0000
+
+libpri (1.0.2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Sat,  6 Nov 2004 12:17:41 +1100
+
+libpri (1.0.1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Thu,  7 Oct 2004 13:03:22 +1000
+
+libpri (1.0.0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Fri, 24 Sep 2004 22:28:02 +1000
+
+libpri (0.6.0+1.0RC1-1) unstable; urgency=low
+
+  * New upstream release (Closes: Bug#254501)
+
+ -- Mark Purcell <msp@debian.org>  Tue, 20 Jul 2004 19:14:24 +1000
+
+libpri (0.6.0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Mark Purcell <msp@debian.org>  Thu, 22 Apr 2004 23:59:18 +1000
+
+libpri (0.5.2-1) unstable; urgency=low
+
+  * New Upstream Release (Closes: Bug#200188)
+
+ -- Mark Purcell <msp@debian.org>  Thu,  5 Feb 2004 16:01:49 +1100
+
+libpri (0.3.2-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Mark Purcell <msp@debian.org>  Wed,  2 Jul 2003 20:23:13 +1000
+

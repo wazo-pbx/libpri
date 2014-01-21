@@ -1,0 +1,29 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+# GNU copyright 1997 to 1999 by Joey Hess.
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+
+SRCVER=$(shell echo *.tar.gz | sed -r 's/.*_([.0-9]*).orig.*$$/\1/')
+DEB_TAR_SRCDIR = libpri-$(SRCVER)
+include /usr/share/cdbs/1/rules/tarball.mk
+include /usr/share/cdbs/1/rules/patchsys-quilt.mk
+
+DEB_PATCHDIRS = $(CURDIR)/patches
+include /usr/share/cdbs/1/class/makefile.mk
+
+DEB_MAKE_INSTALL_TARGET = install DESTDIR=$(CURDIR)/debian/tmp/
+
+DEB_MAKE_INVOKE = $(DEB_MAKE_ENVVARS) make -C $(DEB_BUILDDIR)
+
+DEB_DH_MAKESHLIBS_ARGS = -V
+DEB_DH_STRIP_ARGS := --dbg-package=libpri-dev
+
+binary-install/libpri1.4::
+	dh_installdocs -plibpri1.4 $(DEB_BUILDDIR)/README $(DEB_BUILDDIR)/TODO
+
+clean::
+	rm -f *.cdbs-config_list
