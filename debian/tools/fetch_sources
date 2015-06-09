@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEST_PATH=tarballs
+DEST_PATH=..
 BASE_URL="http://downloads.asterisk.org/pub/telephony/libpri"
 TARBALL_PREFIX="libpri-"
 SRC_DIR_PREFIX="libpri-"
@@ -10,19 +10,21 @@ DFSG_EXCLUDE_PATTERNS=
 UPVERSION=$(cat debian/tools/SOURCE-VERSION)
 FILENAME="${PKG_NAME}.orig.tar.gz"
 
-mkdir -p ${DEST_PATH}
 UPFILENAME="${PKG_NAME}_${UPVERSION}.orig.tar.gz"
 URL="${BASE_URL}/${PKG_NAME}-${UPVERSION}.tar.gz"
 
-if [ -e "${DEST_PATH}/${UPFILENAME}" ]; then
+VERSION=$(dpkg-parsechangelog| grep Version: | awk -F": " '{print $NF}' | sed -ne 's/^\(\([0-9]\+\):\)\?\(.*\)-.*/\3/p')
+TAR_ORIG=$PKG_NAME"_"$VERSION.orig.tar.gz
+
+if [ -e "${DEST_PATH}/${TAR_ORIG}" ]; then
 	echo "A tarball already exist for this version ; remove it if you want to regenerate."
 	exit 0
 fi
 
 echo "Downloading ${UPFILENAME} from ${URL}"
-wget -nv -T10 -t3 -O ${DEST_PATH}/${UPFILENAME} ${URL}
+wget -nv -T10 -t3 -O ${DEST_PATH}/${TAR_ORIG} ${URL}
 if [ $? != 0 ]; then
-	rm -f ${DEST_PATH}/${UPFILENAME}
+	rm -f ${DEST_PATH}/${TAR_ORIG}
 	echo "Could not find tarball."
 	exit 2
 fi

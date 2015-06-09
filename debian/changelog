@@ -1,5 +1,11 @@
 libpri (29:1.4.15+xivo.15.09~20140623.155354.b1b7110-wheezy-2) xivo-dev; urgency=low
 
+  * refactor libpri package to use format quilt
+
+ -- XiVO Builder Team <release@xivo.io>  Mon, 08 Jun 2015 23:56:22 -0400
+
+libpri (29:1.4.15+xivo.15.09~20140623.155354.b1b7110-wheezy-2) xivo-dev; urgency=low
+
   * refactor package
 
  -- XiVO Builder Team <release@xivo.io>  Mon, 08 Jun 2015 23:32:42 -0400
