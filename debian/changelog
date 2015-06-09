@@ -1,3 +1,10 @@
+libpri (29:1.4.15+xivo.15.09~20140623.155354.b1b7110-wheezy-1) xivo-dev; urgency=medium
+
+  * Updated changelog
+  * libpri is now 1.4.15
+
+ -- Sylvain Boily <sboily@avencall.com>  Mon, 08 Jun 2015 22:24:45 -0400
+
 libpri (29:1.4.12+pf.xivo.1.2~alpha-1.4-2) squeeze-xivo-skaro-dev; urgency=low
 
   * fix version 
