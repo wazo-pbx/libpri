@@ -1,8 +1,8 @@
 Source: libpri
 Priority: optional
 Section: libs
-Maintainer: XiVO Dev Team <dev@avencall.com>
-Uploaders: XiVO Builder Team <release@xivo.fr>
+Maintainer: XiVO Dev Team <dev+pkg@proformatique.com>
+Uploaders: XiVO Builder Team <release@xivo.io>
 Build-Depends: debhelper (>> 4.0.0), quilt, cdbs, libtonezone-dev, dahdi-linux-dev
 Standards-Version: 3.7.3
 Homepage: http://www.asterisk.org/
