@@ -1,3 +1,9 @@
+libpri (29:1.4.15+xivo.16.12~1-1) xivo-dev; urgency=medium
+
+  * bump version
+
+ -- Etienne Lessard <elessard@proformatique.com>  Mon, 19 Sep 2016 11:55:46 -0400
+
 libpri (29:1.4.15+xivo.15.20~20151208.181910-1) xivo-dev; urgency=medium
 
   * Update Jessie
