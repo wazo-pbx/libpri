@@ -9,10 +9,10 @@
 ## DP: libpri-$(LIB_SUF).so.1
 
 @DPATCH@
-Index: libpri-1.4.15/Makefile
+Index: libpri-1.5.0/Makefile
 ===================================================================
---- libpri-1.4.15.orig/Makefile
-+++ libpri-1.4.15/Makefile
+--- libpri-1.5.0.orig/Makefile
++++ libpri-1.5.0/Makefile
 @@ -36,8 +36,13 @@ PROC?=$(shell uname -m)
  # of 1.2 and a version of 1.4.x
  SONAME:=1.4

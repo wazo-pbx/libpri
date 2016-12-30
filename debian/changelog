@@ -1,3 +1,9 @@
+libpri (29:1.5.0-1~wazo1) wazo-dev; urgency=medium
+
+  * update to 1.5.0
+
+ -- Wazo Maintainers <dev.wazo@gmail.com>  Fri, 30 Dec 2016 08:53:14 -0500
+
 libpri (29:1.4.15+xivo.16.12~1-1) xivo-dev; urgency=medium
 
   * bump version
