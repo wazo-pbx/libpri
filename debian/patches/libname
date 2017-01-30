@@ -9,10 +9,10 @@
 ## DP: libpri-$(LIB_SUF).so.1
 
 @DPATCH@
-Index: libpri-1.5.0/Makefile
+Index: libpri-1.6.0/Makefile
 ===================================================================
---- libpri-1.5.0.orig/Makefile
-+++ libpri-1.5.0/Makefile
+--- libpri-1.6.0.orig/Makefile
++++ libpri-1.6.0/Makefile
 @@ -36,8 +36,13 @@ PROC?=$(shell uname -m)
  # of 1.2 and a version of 1.4.x
  SONAME:=1.4
@@ -29,7 +29,7 @@ Index: libpri-1.5.0/Makefile
  STATIC_OBJS= \
  	copy_string.o \
  	pri.o \
-@@ -71,6 +76,7 @@ CFLAGS += -Wall -Werror -Wstrict-prototy
+@@ -72,6 +77,7 @@ CFLAGS += -Wall -Werror -Wstrict-prototy
  CFLAGS += -fPIC $(ALERTING) $(LIBPRI_OPT) $(COVERAGE_CFLAGS)
  INSTALL_PREFIX=$(DESTDIR)
  INSTALL_BASE=/usr
@@ -37,7 +37,7 @@ Index: libpri-1.5.0/Makefile
  libdir?=$(INSTALL_BASE)/lib
  ifneq ($(findstring Darwin,$(OSARCH)),)
    SOFLAGS=$(LDFLAGS) -dynamic -bundle -Xlinker -macosx_version_min -Xlinker 10.4 -Xlinker -undefined -Xlinker dynamic_lookup -force_flat_namespace
-@@ -146,12 +152,12 @@ update:
+@@ -147,12 +153,12 @@ update:
  
  install: $(STATIC_LIBRARY) $(DYNAMIC_LIBRARY)
  	mkdir -p $(INSTALL_PREFIX)$(libdir)
@@ -53,7 +53,7 @@ Index: libpri-1.5.0/Makefile
  	install -m 644 $(STATIC_LIBRARY) $(INSTALL_PREFIX)$(libdir)
  	if test $$(id -u) = 0; then $(LDCONFIG) $(LDCONFIG_FLAGS) $(INSTALL_PREFIX)$(libdir); fi
  else
-@@ -163,10 +169,10 @@ endif
+@@ -164,10 +170,10 @@ endif
  
  uninstall:
  	@echo "Removing Libpri"
@@ -68,7 +68,7 @@ Index: libpri-1.5.0/Makefile
  
  pritest: pritest.o $(STATIC_LIBRARY)
  	$(CC) -o $@ $< $(STATIC_LIBRARY) $(CFLAGS)
-@@ -198,7 +204,7 @@ $(STATIC_LIBRARY): $(STATIC_OBJS)
+@@ -199,7 +205,7 @@ $(STATIC_LIBRARY): $(STATIC_OBJS)
  $(DYNAMIC_LIBRARY): $(DYNAMIC_OBJS)
  	$(CC) $(SOFLAGS) -o $@ $(DYNAMIC_OBJS)
  	$(LDCONFIG) $(LDCONFIG_FLAGS) .
