@@ -13,3 +13,4 @@ To update the version of libpri:
     the patch with `quilt refresh`
   * Repeat the last step until all patches have been refreshed
 * Commit and push
+
